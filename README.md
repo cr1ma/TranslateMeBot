@@ -3,7 +3,7 @@ Hello, friends!
 
 I am happy to share with you my new project - TranslateMeBot. This is a translator that translates text into Ukrainian, English, and Russian. It is completely based on neural networks and uses the most advanced technologies.
 
-#TranslateMeBot is not just another translator. It has several unique features:
+#TranslateMeBot is not just another translator. It has several unique features
 
 - It is built using GPT-4, the most powerful text generation model in the world. GPT-4 is capable of generating text on any topic from any source of information. It also has a deep understanding of language and context.
 - It uses the core of DeepL, the best translation service on the Internet. DeepL uses artificial intelligence to create accurate and natural translations. They are also constantly updating their database and improving the quality of their translations.
