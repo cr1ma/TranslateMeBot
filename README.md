@@ -17,3 +17,11 @@ TranslateMeBot is a great way to communicate with people from different countrie
 I hope that you will enjoy TranslateMeBot and will actively use it and share it with your friends and colleagues.
 
 Thank you for your attention and I look forward to your comments!
+
+# How to install TranslateMeBot? 
+`pip install --upgrade python-telegram-bot 
+pip install python-telegram-bot==13.0
+pip install deepl
+pip install deep_translator`
+
+`run main.py`
