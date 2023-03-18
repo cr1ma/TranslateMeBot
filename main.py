@@ -1,7 +1,3 @@
-!pip install --upgrade python-telegram-bot 
-!pip install python-telegram-bot==13.0
-!pip install deepl
-!pip install deep_translator
 import requests
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackQueryHandler
