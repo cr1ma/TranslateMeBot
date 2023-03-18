@@ -19,9 +19,12 @@ I hope that you will enjoy TranslateMeBot and will actively use it and share it 
 Thank you for your attention and I look forward to your comments!
 
 # How to install TranslateMeBot? 
-`pip install --upgrade python-telegram-bot 
-pip install python-telegram-bot==13.0
-pip install deepl
-pip install deep_translator`
+`pip install --upgrade python-telegram-bot` 
+`pip install python-telegram-bot==13.0`
+`pip install deepl`
+`pip install deep_translator`
+
+and
 
 `run main.py`
+
